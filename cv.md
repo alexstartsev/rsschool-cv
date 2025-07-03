@@ -22,7 +22,7 @@ Frontend developer specializing in JavaScript and modern frameworks like React a
     - Курс HTML от Hexlet (completed)
     - JS/Front-end от RS School (in progress)
 ## Languages
-- Russian - Native
-- Ukrainian - Native
-- English - Intermediate/Upper-intermediate
-- German - Intermediate/Upper-intermediate
+- **Russian** - Native
+- **Ukrainian** - Native
+- **English** - Intermediate/Upper-intermediate
+- **German** - Intermediate/Upper-intermediate
